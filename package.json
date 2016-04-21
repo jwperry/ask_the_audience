@@ -1,0 +1,23 @@
+{
+  "name": "ask-the-audience",
+  "version": "1.0.0",
+  "description": "Used for asking audiences.",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwperry/ask_the_audience.git"
+  },
+  "keywords": [
+    "audience"
+  ],
+  "author": "JP",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jwperry/ask_the_audience/issues"
+  },
+  "homepage": "https://github.com/jwperry/ask_the_audience#readme"
+}
